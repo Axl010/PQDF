@@ -1,2 +1,5 @@
 # PQDF
-Aplicación Web para la gestión de solicitudes de acceso
+Aplicación Web
+
+## descripción
+Aplicación Web para la gestión de solicitudes de acceso a equipos electrónicos y de seguridad
